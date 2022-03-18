@@ -1,0 +1,76 @@
+h1{
+  font-family: "Ubuntu";
+  font-weight: bold;
+  font-size: 4rem;
+
+}
+
+
+h2{
+  font-family: Montserrat, sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
+h3{
+  font-family: Montserrat, sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  /* text-align: center; */
+}
+
+
+/* Navigation bar */
+.navbar{
+  padding-bottom: 4.5rem;
+  background-color: black;
+}
+.navbar-kitty{
+  width: 30%;
+}
+
+.nav-item{
+  padding:0 18px;
+}
+.nav-link{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  font-size: 1.2rem;
+  color:white;
+}
+
+/* Middle */
+.middle-container{
+  text-align: center;
+  background-color: #997a8d;
+  padding: 100px 0 100px 200px;
+  color:white;
+}
+
+/* Main */
+main{
+  padding: 7% 15%;
+}
+.phrog-img{
+  width: 30%;
+}
+
+
+/* Competen */
+#competencies{
+  text-align: center;
+  padding: 7% 0;
+  background-color: black;
+  color: white;
+}
+
+.container-competencies{
+  padding-top: 5%;
+}
+.competencies-icon{
+  color:#5D8BF4;
+  margin-bottom: 1rem;
+}
+.competencies-icon:hover{
+  color:#2D31FA;
+}
