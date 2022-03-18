@@ -74,3 +74,23 @@ main{
 .competencies-icon:hover{
   color:#2D31FA;
 }
+
+/* Services */
+#services{
+  padding: 7% 15%;
+}
+
+.serv-ul{
+  font-size: 1.2rem;
+}
+.h2-serv{
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+/* Smth */
+#smth{
+  color:white;
+  background-color: black;
+  padding: 7% 15%;
+}
